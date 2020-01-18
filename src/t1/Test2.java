@@ -13,6 +13,7 @@ public class Test2{
   @Test(priority = 0)
   public void cTest() {
 	  System.out.println("@Test-cTest");
+	  System.out.println(" ");
   }
   @Test(priority = 1)
   public void bTest() {
